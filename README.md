@@ -26,9 +26,9 @@ I'm a passionate and performance-oriented back-end developer who thrives on solv
 
 ## 📫 How to Reach Me
 
-- Email: [your-email@example.com]
-- LinkedIn: [your LinkedIn profile URL]
-- Portfolio: [link to your personal portfolio if available]
+- Email: anthonymburu4449@gmail.com
+- LinkedIn: https://www.linkedin.com/in/obiri-anthony-aa8507196/
+- Portfolio: anthonymburu.netlify.app
 
 ---
 
